@@ -1,4 +1,4 @@
-# llms.txt Generator 🚀
+# llms.txt Generator 🚀🚀🚀
 
 Generate consolidated text files from websites for LLM training and inference. Powered by [@firecrawl_dev](https://twitter.com/firecrawl_dev) for web crawling and GPT-4-mini for text processing.
 
